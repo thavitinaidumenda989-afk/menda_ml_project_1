@@ -1,1 +1,2 @@
-# menda_ml_project_1
+#Download the file from kaggle 
+implement the file for data cleaning
