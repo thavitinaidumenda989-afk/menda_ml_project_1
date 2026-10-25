@@ -1,1 +1,1 @@
-# menda_ml_project_1
+nse_50_stock_analysis
